@@ -3,5 +3,5 @@ main:
   - title: "Research"
     url: /research/ 
   - title: "CV"
-    url: "https://github.com/zollverein1555/zollverein1555.github.io/blob/master/files/Daniel_Brown_CV.pdf"
+    url: "/files/Daniel_Brown_CV.pdf"
 
