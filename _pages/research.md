@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## "Entering Markets While Standing in Place: The Impact of Redeployment Costs on Entry Mode and Organizational Structure" (Job Market Paper)
-[Link to Latest Version](bit.ly/daniel-jay-brown-jmp)  
+[Link to Latest Version](https://www.dropbox.com/scl/fi/560qns0frz6eqc7h8gu5z/Daniel_Brown_JMP_Dropbox.pdf)  
 
 This paper examines the impact of reduced resource redeployment costs on market entry,
 entry mode, and organizational structure, using changes in state-level occupational licensing
